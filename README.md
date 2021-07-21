@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @EduAraujo2
-- 👀 I’m interested in learn more about Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on professional projects
-- 📫 How to reach me instagram.com/fonseca_edu21/
+<h1 align="center">
+  👋 Hi, I’m @EduAraujo2
+</h1>
+<p>
+  - 👀 I’m interested in learn more about Java
+  - 🌱 I’m currently learning Java
+  - 💞️ I’m looking to collaborate on professional projects
+  - 📫 How to reach me instagram.com/fonseca_edu21/
+</p>
 
 <!---
 EduAraujo2/EduAraujo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
