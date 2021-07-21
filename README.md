@@ -2,7 +2,7 @@
   👋 Hi, I’m Eduardo Araujo
 </h1>
 <p align="center">
-  <a href="https://www.instagram.com/wenderpmachado/" alt="Instagram">
+  <a href="https://www.instagram.com/fonseca_edu21/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/fonseca_edu21//"/></a>
 <p>
    👀 I’m interested in learn more about Java
