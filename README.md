@@ -10,7 +10,7 @@
 <p>
    👀 I’m interested in learn more about Java, JS and Python
 </p>
-   🌱 I’m currently learning Python
+   🌱 I’m currently learning Cyber Ops Associate and Python
 </p>
    💞️ I’m looking to collaborate on professional projects
 </p>
