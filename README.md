@@ -8,9 +8,9 @@
   <a href = "mailto:edufonar123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 <p>
-   👀 I’m interested in learn more about Java
+   👀 I’m interested in learn more about Java, JS and Python
 </p>
-   🌱 I’m currently learning Java
+   🌱 I’m currently learning Python
 </p>
    💞️ I’m looking to collaborate on professional projects
 </p>
